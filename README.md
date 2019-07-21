@@ -21,7 +21,7 @@ Once the Docker is running, use the following commands to run the web server:
 
 Get the code from GitHub:
 ```
-$ https://github.com/pra-kum/go-web-server.git
+$ git clone https://github.com/pra-kum/go-web-server.git
 $ cd go-web-server
 ```
 
