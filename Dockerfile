@@ -5,7 +5,7 @@ FROM golang:alpine
 
 # Metadata annotations to support OCI Image Format Specification.
 LABEL org.opencontainers.image.created="2019-07-18T12:19:46-0400" \
-      org.opencontainers.image.authors="Praveen Kumar <prv.k@outlook.com>" \
+      org.opencontainers.image.authors="Praveen Kumar" \
       org.opencontainers.image.source="https://github.com/pra-kum/go-web-server" \
       org.opencontainers.image.documentation="https://github.com/pra-kum/go-web-server" \
       org.opencontainers.image.version="1.0" \
